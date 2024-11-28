@@ -1,0 +1,12 @@
+C:\Users\assup\source\repos\InspectorLib\InspectorLib\obj\Debug\InspectorLib.csproj.AssemblyReference.cache
+C:\Users\assup\source\repos\InspectorLib\InspectorLib\obj\Debug\InspectorLib.csproj.CoreCompileInputs.cache
+D:\papkaD\Git\SeliverstovTest\InspectorLib\InspectorLib\bin\Debug\InspectorLib.dll
+D:\papkaD\Git\SeliverstovTest\InspectorLib\InspectorLib\bin\Debug\InspectorLib.pdb
+D:\papkaD\Git\SeliverstovTest\InspectorLib\InspectorLib\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\papkaD\Git\SeliverstovTest\InspectorLib\InspectorLib\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\papkaD\Git\SeliverstovTest\InspectorLib\InspectorLib\bin\Debug\Microsoft.Analytics.Types.dll
+D:\papkaD\Git\SeliverstovTest\InspectorLib\InspectorLib\obj\Debug\InspectorLib.csproj.AssemblyReference.cache
+D:\papkaD\Git\SeliverstovTest\InspectorLib\InspectorLib\obj\Debug\InspectorLib.csproj.CoreCompileInputs.cache
+D:\papkaD\Git\SeliverstovTest\InspectorLib\InspectorLib\obj\Debug\Inspecto.2146981F.Up2Date
+D:\papkaD\Git\SeliverstovTest\InspectorLib\InspectorLib\obj\Debug\InspectorLib.dll
+D:\papkaD\Git\SeliverstovTest\InspectorLib\InspectorLib\obj\Debug\InspectorLib.pdb
